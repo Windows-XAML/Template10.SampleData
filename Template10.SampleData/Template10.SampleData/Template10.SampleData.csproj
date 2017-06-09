@@ -113,8 +113,6 @@
     <Compile Include="Email\Message.cs" />
     <Compile Include="Email\MessageList.cs" />
     <Compile Include="Email\Recipient.cs" />
-    <Compile Include="Mvvm\BindableBase.cs" />
-    <Compile Include="Mvvm\IBindable.cs" />
     <Compile Include="Generator\Names\Name.cs" />
     <Compile Include="Generator\Names\NameList.cs" />
     <Compile Include="Generator\Paragraphs\Paragraph.cs" />
