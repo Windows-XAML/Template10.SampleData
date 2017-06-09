@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
   <metadata minClientVersion="3.0">
 
-    <version>0.0.3</version>
+    <version>0.0.4</version>
 
     <id>Template10-SampleData</id>
 
@@ -37,8 +37,10 @@
     <language />
 
     <releaseNotes>
+      Version 0.0.4
+      Due to namespace conflicts, moved limited Mvvm files into package
       Version 0.0.3
-      Enhanced further ;)
+      Experimenting with Template10-Mvvm dependency
       Version 0.0.2
       Extracting Mvvm and adding a refence to Template10-Mvvm nuget
       Version 0.0.1
