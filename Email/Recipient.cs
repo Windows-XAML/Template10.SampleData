@@ -1,4 +1,4 @@
-﻿using Template10.Mvvm;
+﻿using Template10.SampleData.Mvvm;
 
 namespace Template10.SampleData.Email
 {
